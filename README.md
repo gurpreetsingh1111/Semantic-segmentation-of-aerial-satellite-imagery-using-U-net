@@ -16,6 +16,6 @@ The dataset consists of aerial imagery of Dubai obtained by MBRSC satellites and
 * Tile 6: 859 x 838 --> 768 x 768 --> 9
 * Tile 7: 1817 x 2061 --> 1792 x 2048 --> 56
 * Tile 8: 2149 x 1479 --> 1280 x 2048 --> 40
-Total 9 images in each folder * (145 patches) = 1305
-Total 1305 patches of size 256x256
+### Total 9 images in each folder * (145 patches) = 1305
+### Total 1305 patches of size 256x256
 """
